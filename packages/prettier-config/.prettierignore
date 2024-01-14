@@ -1,0 +1,14 @@
+# packages/amatelas-react/storybook-static
+# packages/markdown/markdown
+# packages/aniline/aniline
+# packages/amatelas-lit/cdn
+
+# */**/dist
+
+# .next
+# .vscode
+
+# pnpm-lock.yaml
+# pnpm-workspace.yaml
+# */**/pnpm-lock.yaml
+# */**/pnpm-workspace.yaml
